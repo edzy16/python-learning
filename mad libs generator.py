@@ -6,12 +6,13 @@ email = input ("email\t")
 familyname = input ("family name\t")
 place = input ("place\t")
 zipcode = int (input ("zipcode\t"))
-mobile = int (input ("mobile\t")) #not working after this line
+mobile = int (input ("mobile\t"))
 def address() :
-    name
-    email
-    familyname
-    place
-    zipcode
-    mobile 
-print ( "Address =" +address() )
+    print(name)
+    print(email)
+    print(familyname)
+    print(place)
+    print(zipcode)
+    print(mobile) 
+print ( "Address =" )
+address()

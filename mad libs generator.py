@@ -6,7 +6,7 @@ email = input ("email\t")
 familyname = input ("family name\t")
 place = input ("place\t")
 zipcode = int (input ("zipcode\t"))
-mobile = int (input ("mobile\t"))
+mobile = int (input ("mobile\t")) #not working after this line
 def address() :
     name
     email
